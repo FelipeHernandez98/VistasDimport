@@ -1,0 +1,20 @@
+@import url('css/reset.css');
+@import url('css/reticula.css');
+@import url('css/editorial.css');
+@import url('css/secciones.css');
+@import url('css/formas.css');
+@import url('css/layout.css');
+
+
+body{
+	background-color: #cdcdcd;
+	height: 100%;
+	font-family: helvetica;
+		
+}
+
+.hj div{
+	padding-top: 4px;
+	padding-bottom: 15px;
+}
+

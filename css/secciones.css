@@ -1,0 +1,78 @@
+
+.home{
+	
+	height: 100%;
+	padding: 12% 0;
+	box-sizing: border-box;
+	background-size: cover;
+	
+}
+
+.home-administrador{
+	
+	height: 100%;
+	padding: 10% 0;
+	box-sizing: border-box;
+	background-size: cover;
+	
+}
+
+.fondo{
+	height: 500px;
+}
+
+/*.row + .row {
+	padding-bottom: 20px;
+}*/
+
+.lista-desplegable{
+	margin-left: -150px;
+}
+
+.FotoPerfil{
+	height: 200px;
+	width: 180px;
+	border-radius: 30px;
+}
+
+.fondo-perfil{
+	background-color: #464646;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 400px;
+	margin-right: 400px;
+	color: #fff;
+	border-radius: 30px;
+
+}
+
+.cajas-categoias{
+	background-color: #464646;
+	color: #fff;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 0;
+	height: 30px;
+	width: 100%;
+}
+
+img.editar{
+	height: 30px;
+	width: 30px;
+	
+}
+
+img.eliminar{
+	height: 30px;
+	width: 30px;
+
+}
+
+/*.boton-eliminar{
+	
+	height: 30px;
+	width: 15%;
+	padding: 0;
+	float: right;
+
+}*/
